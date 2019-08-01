@@ -13,5 +13,5 @@ html, body {
   text-align: left;
 }
 #output {
-  white-space: pre;
+  white-space: pre-wrap;
 }
