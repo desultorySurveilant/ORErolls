@@ -8,7 +8,10 @@ html, body {
   font-family: 'Roboto', sans-serif;
 }
 
-#output {
+#main {
   padding: 20px;
-  text-align: center;
+  text-align: left;
+}
+#output {
+  white-space: pre;
 }
